@@ -9,6 +9,7 @@ pip install tqdm
 pip install tokenizers
 pip install gensim
 pip install nltk
+pip install transformers
 ```
 
 ## Additional Instructions
